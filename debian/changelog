@@ -1,3 +1,9 @@
+opam (1.0.0-1ppa1~raring1) raring; urgency=low
+
+  * Bump to PPA
+
+ -- Anil Madhavapeddy <anil@recoil.org>  Sat, 28 Sep 2013 02:53:45 +0100
+
 opam (1.0.0-1) unstable; urgency=low
 
   * Initial upload (Closes: #641986)
