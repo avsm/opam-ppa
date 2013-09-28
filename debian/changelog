@@ -1,3 +1,9 @@
+opam (1.0.0-1ppa2~quantal) quantal; urgency=low
+
+  * Bump
+
+ -- Anil Madhavapeddy <anil@recoil.org>  Sat, 28 Sep 2013 02:55:56 +0100
+
 opam (1.0.0-1ppa2~precise) precise; urgency=low
 
   * Bump
