@@ -1,8 +1,0 @@
-Document: opam-dev-man
-Title: OPAM, developer manual
-Author: Thomas Gazanaire
-Abstract: Developer Manual of OPAM
-Section: Programming/OCaml
-
-Format: PDF
-Files: /usr/share/doc/opam-docs/dev-manual.pdf
